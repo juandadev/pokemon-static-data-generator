@@ -5,13 +5,13 @@ applications.
 
 ## 🚀 Features
 
-- Complete Pokémon Data Scraping: Fetches all Pokémon, species, and evolution chain data
-- Custom Data Injection: Add your own sprites, descriptions, stats, and metadata
-- Individual JSON Files: Each Pokémon gets its own optimized JSON file
-- Development Mode: Quick scraping for the first 151 Pokémon during development
-- Image Optimization: Automatic WebP conversion and resizing
-- Data Validation: Built-in validation to ensure data integrity
-- TypeScript Ready: Fully typed data structures
+- **Complete Pokémon Data Scraping**: Fetches all Pokémon, species, and evolution chain data
+- **Custom Data Injection**: Add your own sprites, descriptions, stats, and metadata
+- **Individual JSON Files**: Each Pokémon gets its own optimized JSON file
+- **Development Mode**: Quick scraping for the first 151 Pokémon during development
+- **Image Optimization**: Automatic WebP conversion and resizing
+- **Data Validation**: Built-in validation to ensure data integrity
+- **TypeScript Ready**: Fully typed data structures
 
 ## 📁 Project Structure
 
