@@ -1,0 +1,23 @@
+{
+  "name": "pokemon-static-data-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pokemon",
+    "pokeapi",
+    "scrapping"
+  ],
+  "author": "Juan Daniel Martínez",
+  "license": "MIT",
+  "description": "A comprehensive solution for scraping Pokemon data from PokéAPI and generating static, customizable datasets for your applications.",
+  "dependencies": {
+    "chalk": "^5.5.0",
+    "ora": "^8.2.0",
+    "progress": "^2.0.3",
+    "rimraf": "^6.0.1",
+    "sharp": "^0.34.3"
+  }
+}
