@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
   },
   "keywords": [
     "pokemon",
@@ -19,5 +20,8 @@
     "progress": "^2.0.3",
     "rimraf": "^6.0.1",
     "sharp": "^0.34.3"
+  },
+  "devDependencies": {
+    "prettier": "^3.6.2"
   }
 }
