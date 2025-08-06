@@ -21,7 +21,6 @@ pokemon-static-data-generator/
 │   ├── pokemon-scraper.js          # Core scraping logic
 │   ├── scrape-pokemon.js           # Full scraping script
 │   ├── dev-scrape.js               # Development scraping (151 Pokemon)
-│   ├── build-static-data.js        # Next.js integration builder
 │   ├── generate-custom-data.js     # Custom data template generator
 │   ├── validate-data.js            # Data validation script
 │   ├── optimize-images.js          # Image optimization
