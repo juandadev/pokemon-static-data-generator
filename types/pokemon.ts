@@ -1,5 +1,23 @@
 import type { GenericPropertyDetails, PokemonTypes } from "./index";
 
+export interface ComprehensivePokemonData {
+  id: number;
+  name: string;
+  is_default: boolean;
+  types: Type[];
+  stats: Stat[];
+  sprites: Sprites;
+
+  is_mega: boolean;
+
+  displayName: string;
+  nationalPokedexNumber: number;
+  generation: GenericPropertyDetails;
+  is_baby: boolean;
+  is_legendary: boolean;
+  is_mythical: boolean;
+}
+
 export interface PokemonData {
   abilities: Ability[];
   base_experience: number;
